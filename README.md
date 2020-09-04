@@ -1,3 +1,3 @@
 #Calculator
 
-A simple mathematical calculator built with Javascript.
+A simple mathematical calculator built with Javascript, Html, Css
